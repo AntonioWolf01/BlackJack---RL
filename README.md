@@ -20,4 +20,4 @@ Key features include **reshuffling rules** that impact decision-making, as well 
   - **Polynomial Feature Transformation**: Expands features to a higher degree to capture more complex relationships in the state space.
 - **Peek Action**: Allows the agent to peek at the next card, providing strategic information but with penalties if misused.
 - **Reshuffling Mechanics**: Custom reshuffling rules that affect the learning process and strategy optimization.
-- **Model Performance**: Evaluate the agent's performance in terms of total rewards and optimal strategy learning.
+- **Model Performance**: Evaluate the agent's performance in terms of expected reward and win rate.
